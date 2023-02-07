@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Why Not Doctor</string>
+
+    <string name="text_intro1">Medicines</string>
+    <string name="text_intro2">Lab Tests</string>
+    <string name="text_intro3">Professional doctor advice</string>
+
+    <string name="desc_intro1">Get the Best medicines and pharma products</string>
+    <string name="desc_intro2">One place destination for all your Pathology and Lab testing needs</string>
+    <string name="desc_intro3">Get the best advice on all your health problems from the best Doctors around</string>
+</resources>
